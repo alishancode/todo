@@ -45,6 +45,12 @@
         "projectId": "d54e316a-452b-4a00-87bc-ad620aee1d87"
       }
     },
-    "owner": "alishanbyldd"
+    "owner": "alishanbyldd",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d54e316a-452b-4a00-87bc-ad620aee1d87"
+    }
   }
 }
